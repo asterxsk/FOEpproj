@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Engineering Physics Textbook",
+        "type": "Notes",
+        "price": 250,
+        "currency": "INR",
+        "campus": "NMIMS_MUM",
+        "condition": "Good"
+    },
+    {
+        "id": "2",
+        "title": "Casio fx-991EX Calculator",
+        "type": "Tech",
+        "price": 800,
+        "currency": "INR",
+        "campus": "NMIMS_MUM",
+        "condition": "Mint"
+    },
+    {
+        "id": "3",
+        "title": "Drafting Ket (Mini-drafter + scale)",
+        "type": "Stationary",
+        "price": 400,
+        "currency": "INR",
+        "campus": "NMIMS_MUM",
+        "condition": "Used"
+    },
+    {
+        "id": "4",
+        "title": "Powerbank 10000mAh",
+        "type": "Tech",
+        "price": 600,
+        "currency": "INR",
+        "campus": "NMIMS_MUM",
+        "condition": "Good"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "s1",
+        "name": "Project Help",
+        "description": "Get help with coding assignments or manufacturing projects."
+    },
+    {
+        "id": "s2",
+        "name": "Locker Swap",
+        "description": "Find students vacating lockers near your classroom."
+    }
+]
